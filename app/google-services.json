@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "669889050740",
+    "firebase_url": "https://gps3-3571c.firebaseio.com",
+    "project_id": "gps3-3571c",
+    "storage_bucket": "gps3-3571c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:669889050740:android:24ce4ef99969196a",
+        "android_client_info": {
+          "package_name": "com.example.chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "669889050740-0bjebrv0hr7bt5eumktlsatuhdsp41ko.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.chat",
+            "certificate_hash": "3f3a2e6b292c98dd6d99556261635d861a9a8d85"
+          }
+        },
+        {
+          "client_id": "669889050740-2k6p0vk3s1lplhb3r321utlqokfvq2qf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQPTn9u9a82cCzhibdZOytmRV_tQwPIsk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "669889050740-2k6p0vk3s1lplhb3r321utlqokfvq2qf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
